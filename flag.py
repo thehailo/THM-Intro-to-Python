@@ -1,4 +1,4 @@
-# The flag is encoded five times with base16, base32, and base64.
+# The flag is encoded five times each with base16, base32, and base64.
 # https://tryhackme.com/room/introtopython
 import base64
 
